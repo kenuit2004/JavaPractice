@@ -4,7 +4,9 @@ class Hello
 	public static void main(String[] args) 
 	{
 	
-		System.out.println("Welcome Kenuit!");
+		System.out.println("Hello World");
 	}
 
 }
+
+
