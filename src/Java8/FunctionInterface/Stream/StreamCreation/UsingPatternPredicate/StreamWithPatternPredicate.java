@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream;
+package Java8.FunctionInterface.Stream.StreamCreation.UsingPatternPredicate;
 import java.util.*;
 import java.util.regex.*;
 public class StreamWithPatternPredicate 
