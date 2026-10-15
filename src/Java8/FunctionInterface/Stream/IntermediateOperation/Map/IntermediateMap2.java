@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream;
+package Java8.FunctionInterface.Stream.IntermediateOperation.Map;
 import java.util.*;
 import java.util.stream.*;
 public class IntermediateMap2 
