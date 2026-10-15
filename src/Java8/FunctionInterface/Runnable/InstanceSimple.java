@@ -1,5 +1,5 @@
 package Java8.FunctionInterface.Runnable;
-import java.util.*;
+
 class Parent
 {
 	

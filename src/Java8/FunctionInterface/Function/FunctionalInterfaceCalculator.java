@@ -1,5 +1,4 @@
 package Java8.FunctionInterface.Function;
-import java.util.*;
 interface Calculate
 {
 	int value(int a,int b);

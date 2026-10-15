@@ -6,6 +6,7 @@ class Kenuity implements Runnable
 		try
 		{
 			int result=10/0;
+			System.out.println(result);
 		}
 		catch(Exception e)
 		{
