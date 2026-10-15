@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream;
+package Java8.FunctionInterface.Stream.StreamCreation.UsingStreamOf;
 import java.util.stream.Stream;
 public class StreamCreationUsingStreamof 
 {
