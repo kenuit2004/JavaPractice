@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream;
+package Java8.FunctionInterface.Stream.StreamCreation.UsingStreamGenerate;
 import java.util.stream.*;
 public class StreamGenerateMathRandom 
 {
