@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream.StreamCreation;
+package Java8.FunctionInterface.Stream.StreamCreation.UsingCollection;
 import java.util.*;
 import java.util.stream.Stream;
 public class StreamCreationusingCollection 
