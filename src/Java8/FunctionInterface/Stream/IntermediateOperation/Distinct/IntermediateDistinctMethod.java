@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream;
+package Java8.FunctionInterface.Stream.IntermediateOperation.Distinct;
 import java.util.stream.*;
 public class IntermediateDistinctMethod 
 {
