@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream.TerminalOperation.Find;
+package Java8.FunctionInterface.Stream.TerminalOperation.Find.FindFirst;
 import java.util.*;
 import java.util.stream.*;
 public class FindFirstSimpleExample 
