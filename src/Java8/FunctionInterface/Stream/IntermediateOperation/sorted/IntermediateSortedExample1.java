@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream;
+package Java8.FunctionInterface.Stream.IntermediateOperation.sorted;
 import java.util.stream.*;
 public class IntermediateSortedExample1 
 {
