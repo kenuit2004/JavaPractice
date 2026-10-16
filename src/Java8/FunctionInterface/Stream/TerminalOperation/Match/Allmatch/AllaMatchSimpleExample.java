@@ -11,7 +11,7 @@ public class AllaMatchSimpleExample
 		a.add(30);
 		a.add(40);
 		a.add(50);
-		Boolean result=a.stream()
+		boolean result=a.stream()
 		         .allMatch(n->n%10==0);
 		System.out.println(result);  
 	}
