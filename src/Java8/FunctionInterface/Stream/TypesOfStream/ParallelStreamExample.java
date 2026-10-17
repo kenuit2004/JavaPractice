@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Stream;
+package Java8.FunctionInterface.Stream.TypesOfStream;
 import java.util.*;
 public class ParallelStreamExample 
 {
