@@ -1,4 +1,4 @@
-package Java8.FunctionInterface.Collectors.ToGroupCollectCounting;
+package Java8.FunctionInterface.Collectors.CollectingAndThen;
 import java.util.*;
 import java.util.stream.*;
 class City
