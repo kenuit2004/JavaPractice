@@ -2,7 +2,7 @@ package Java8.FunctionInterface.Collectors.Grouping;
 import java.util.*;
 import java.util.stream.*;
 import java.util.function.*;
-public class GroupinginTreeMAp 
+public class GroupinginTreeMap 
 {
 	public static void main(String[] args) 
 	{
