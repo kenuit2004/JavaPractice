@@ -1,6 +1,6 @@
 package DateandTimeAPI.LocalDateTimeClasses;
 import java.time.*;
-public class DateTimeSimpleProgram 
+public class EnterManualDate 
 {
 	public static void main(String[] args) 
 	{
