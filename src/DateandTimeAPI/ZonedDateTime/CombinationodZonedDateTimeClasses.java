@@ -1,4 +1,4 @@
-package DateandTimeAPI.ZonedDateTimeClasses;
+package DateandTimeAPI.ZonedDateTime;
 import java.time.*;
 import java.time.format.*;
 public class CombinationodZonedDateTimeClasses 

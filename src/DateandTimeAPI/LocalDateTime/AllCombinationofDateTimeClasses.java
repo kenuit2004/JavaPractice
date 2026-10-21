@@ -1,4 +1,4 @@
-package DateandTimeAPI.LocalDateTimeClasses;
+package DateandTimeAPI.LocalDateTime;
 import java.time.*;
 import java.time.format.*;
 public class AllCombinationofDateTimeClasses 
