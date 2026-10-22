@@ -7,5 +7,8 @@ public class DurationMinuteCreation
 		Duration a=Duration.ofMinutes(10);
 		System.out.println(a.toMinutes());
 		System.out.println(a.getSeconds());
+		Duration b=Duration.ofMinutes(-10);
+		System.out.println(b.toMinutes());
+		System.out.println(b.getSeconds());
 	}
 }
