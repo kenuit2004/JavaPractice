@@ -1,4 +1,4 @@
-package FileHandling.Systemout;
+package FileHandling.FilehandlingStreams.DefaultStreams.Systemout;
 import java.io.*;
 public class SystemoutExample3 
 {

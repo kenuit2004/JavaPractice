@@ -1,4 +1,4 @@
-package FileHandling.Systemin;
+package FileHandling.FilehandlingStreams.DefaultStreams.Systemin;
 import java.io.*;
 public class SysteminExample 
 {
